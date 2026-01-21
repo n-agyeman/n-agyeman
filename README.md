@@ -60,6 +60,7 @@
 ### 📈 GitHub Stats
 
  [![n-agyeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&theme=radical&count_private=true)](https://github.com/n-agyeman)    
+ [![GitHub Streak](https://streak-stats.demolab.com?user=n-agyeman)](https://git.io/streak-stats)   
 
 ---
 
