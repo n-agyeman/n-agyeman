@@ -60,8 +60,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=n-agyeman&show_icons=true&theme=tokyonight&cache_seconds=1800" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=n-agyeman&theme=tokyonight&date_format=%5BY.%5Dn.j&fire=FF9A00&ring=4C8EDA&currStreakLabel=4C8EDA&sideNums=FFFFFF&cache_seconds=1800" width="47%"/>
+ [![n-agyeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&theme=radical&count_private=true)](https://github.com/n-agyeman)   
 </p>
 
 ---
