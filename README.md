@@ -61,10 +61,7 @@
 
  [![n-agyeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&theme=radical&count_private=true)](https://github.com/n-agyeman) 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&include_all_commits=true&count_private=true" height="165">
-  <img src="https://streak-stats.demolab.com?user=n-agyeman" height="165">
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=n-agyeman)
  
 
 ---
