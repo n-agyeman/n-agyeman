@@ -59,9 +59,7 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
- ![n-agyeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-agyeman&hide=contribs,prs)   
-</p>
+ [![n-agyeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&theme=radical&count_private=true)](https://github.com/n-agyeman)    
 
 ---
 
