@@ -78,18 +78,11 @@ Beyond code, I’m deeply invested in continuous learning — through reading, d
 
 ---
 
-## 📊 Activity & Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&theme=dark&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-agyeman&layout=compact&theme=dark" height="170" />
-</p>
+### 📈 GitHub Stats
 
  [![n-agyeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&theme=radical&count_private=true)](https://github.com/n-agyeman) 
- 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=n-agyeman&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
-[![IDK Yet](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-agyeman&theme=github_dark)
+[![GitHub Streak](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 
 
