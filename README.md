@@ -26,33 +26,25 @@ Beyond code, I’m deeply invested in continuous learning — through reading, d
 ## 🧰 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+![Languages](https://skillicons.dev/icons?i=python,javascript,c,sql)
+
 
 ---
 
 ### Backend & APIs
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django)
-![Django REST](https://img.shields.io/badge/Django_REST_Framework-c53b3b?style=flat)
-![REST API](https://img.shields.io/badge/REST-000000?style=flat)
+![Backend](https://skillicons.dev/icons?i=django)
+
 
 ---
 
 ### Data & Machine Learning
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6F00?style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E2E2E?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
+![Data](https://skillicons.dev/icons?i=python,sklearn)
+
 
 ---
 
 ### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)
+![CV](https://skillicons.dev/icons?i=opencv)
 ![YOLO](https://img.shields.io/badge/YOLO-000000?style=flat)
 ![SORT](https://img.shields.io/badge/SORT-444444?style=flat)
 ![Deep SORT](https://img.shields.io/badge/Deep_SORT-222222?style=flat)
@@ -61,20 +53,14 @@ Beyond code, I’m deeply invested in continuous learning — through reading, d
 ---
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite)
+![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite)
+
 
 ---
 
 ### Tools & Environment
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+![Tools](https://skillicons.dev/icons?i=git,github,linux,arch,bash,vscode,figma,jupyter)
+
 
 ---
 
