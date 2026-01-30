@@ -1,77 +1,95 @@
-<h1 align="center">Hi there 👋, I'm Nana Yaw Agyeman</h1>
-<h3 align="center">A self-taught developer and robotics enthusiast from Ghana 🇬🇭</h3>
+# 👋 Hi, I’m Nana Yaw A
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=n-agyeman&label=Profile%20views&color=0e75b6&style=flat" alt="n-agyeman" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=600&lines=Self-taught+developer;Backend+%7C+Data+%7C+APIs;Always+learning%2C+building%2C+refining;Reading+to+think+better%2C+coding+to+build+better" />
 </p>
 
 ---
 
-### 💡 About Me
+## 🧭 About Me
 
-- 🇬🇭 I'm from **Ghana**
-- 🧠 Currently learning **C**, **Django**, and **Machine Learning**
-- 🏅 Competed in:
-  - 🥇 **Ghana Robotics Competition** — 1st Place  
-  - 🛠️ **Pan-African Robotics Competition** — Best Engineering Award  
-- 🎓 Certified in:
-  - ✅ **DataCamp**: SQL Fundamentals, Data Science
-  - ✅ **Google**: Networking, Data Analytics, IT Support, UX Design
-- 🌍 Languages: English, Twi, and learning Spanish 🇪🇸
-- 🧩 Hobbies: **Reading**, **Problem Solving**, **Tinkering with Tech & Hardware**
+Self-taught developer driven by curiosity and a need to understand systems deeply. I’m currently focused on backend development and API.
+
+Beyond code, I’m deeply invested in **continuous learning** — through reading, deliberate practice, and refining how I think about problems. I value depth over hype and long-term growth over shortcuts.
 
 ---
 
-### 🧰 Tech Stack
+## 🧠 Focus Areas
 
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-c53b3b?style=flat)
-![Pygame](https://img.shields.io/badge/-Pygame-333?style=flat)
-
-**Data Science & ML**
-
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2E2E2E?style=flat)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EC6F00?style=flat)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
-![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoft-sql-server)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Arch Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+- Backend development & API design  
+- Data analysis & applied machine learning  
+- System thinking & software fundamentals  
+- Developer tooling, Linux, and workflows  
 
 ---
 
-### 📈 GitHub Stats
+## 🛠️ Tech Stack
 
- [![n-agyeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&theme=radical&count_private=true)](https://github.com/n-agyeman) 
+### Languages
+- Python
+- JavaScript
+- C
+- SQL
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=n-agyeman&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
+### Backend & APIs
+- Django
+- Django REST Framework
+- RESTful API design
 
- 
+### Data & Machine Learning
+- NumPy
+- Pandas
+- scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+### Computer Vision
+- OpenCV
+- SORT / Deep SORT
+- YOLO
+- OpenOCR
+
+### Databases
+- PostgreSQL
+- MySQL
+- SQLite
+
+### Tools & Environment
+- Git & GitHub
+- Linux (Arch Linux)
+- Bash / Shell
+- VS Code
+- Figma
 
 ---
 
-### 📫 Connect With Me
+## 📊 Activity & Stats
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/nanayawagyeman/)
-- 📧 Email: nanayawagyeman1@gmail.com
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&theme=dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-agyeman&layout=compact&theme=dark&hide_border=true" height="170" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n-agyeman&theme=dark&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=n-agyeman&theme=github_dark" />
+</p>
 
 ---
 
-> “Be so good they can’t ignore you.” — Steve Martin
+## 📬 Contact
+
+- 📧 Email: **any.agyeman@gmail.com**
+
+Open to meaningful conversations, collaboration, and knowledge exchange.
+
+---
+
+<p align="center">
+  <sub>Kaizen!</sub>
+</p>
