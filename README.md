@@ -70,7 +70,6 @@ Beyond code, I’m deeply invested in continuous learning — through reading, d
 
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=n-agyeman&show_icons=true&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=n-agyeman&layout=compact&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 
 ---
