@@ -80,9 +80,10 @@ Beyond code, I’m deeply invested in continuous learning — through reading, d
 
 ### 📈 GitHub Stats
 
+
  [![n-agyeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=n-agyeman&show_icons=true&theme=radical&count_private=true)](https://github.com/n-agyeman) 
 
-[![GitHub Streak](https://github.com/Pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=n-agyeman&theme=dark)](https://github.com/Pranesh-2005/github-readme-stats-fast)
 
 
 
