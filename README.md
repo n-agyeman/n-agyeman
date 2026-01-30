@@ -10,7 +10,7 @@
 
 Self-taught developer driven by curiosity and a need to understand systems deeply. I’m currently focused on backend development and API.
 
-Beyond code, I’m deeply invested in **continuous learning** — through reading, deliberate practice, and refining how I think about problems. I value depth over hype and long-term growth over shortcuts.
+Beyond code, I’m deeply invested in **continuous learning** - through reading, deliberate practice, and refining how I think about problems. I value depth over hype and long-term growth over shortcuts.
 
 ---
 
