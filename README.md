@@ -26,7 +26,7 @@ Beyond code, I’m deeply invested in continuous learning - through reading, del
 ## 🧰 Tech Stack
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=python,javascript,c,cpp)
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript)
 
 
 ---
