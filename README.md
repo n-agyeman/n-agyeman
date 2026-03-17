@@ -37,8 +37,14 @@ Beyond code, I’m deeply invested in continuous learning - through reading, del
 
 ---
 
-### Data & Machine Learning
+### Data Science & Machine Learning
 ![Data](https://skillicons.dev/icons?i=python,sklearn)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E2E2E?style=flat)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6F00?style=flat)
 
 
 ---
