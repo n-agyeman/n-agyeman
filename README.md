@@ -32,7 +32,7 @@ Beyond code, I’m deeply invested in continuous learning - through reading, del
 ---
 
 ### Backend & APIs
-![Backend](https://skillicons.dev/icons?i=django,express,react)
+![Backend](https://skillicons.dev/icons?i=django)
 
 
 ---
