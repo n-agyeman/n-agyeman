@@ -65,7 +65,7 @@ Beyond code, I’m deeply invested in continuous learning - through reading, del
 ---
 
 ### Tools & Environment
-![Tools](https://skillicons.dev/icons?i=git,github,linux,arch,bash,zsh,neovim,vscode,clion,figma,tmux,jupyter)
+![Tools](https://skillicons.dev/icons?i=git,github,linux,arch,bash,lua,md,vim,neovim,vscode,clion,figma,docker,arduino,cmake,gcp,obsidian,npm,supabase,vercel,vite,tmux,jupyter)
 
 
 ---
